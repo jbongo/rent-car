@@ -1,0 +1,12 @@
+/back/node_modules
+/back/public/hot
+/back/public/storage
+/back/storage/*.key
+/back/vendor
+/back.env
+.env.backup
+/back.phpunit.result.cache
+/backHomestead.json
+/backHomestead.yaml
+/backnpm-debug.log
+/backyarn-error.log
